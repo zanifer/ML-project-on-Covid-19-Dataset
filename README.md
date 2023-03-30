@@ -42,3 +42,6 @@ The results of this project shows accuracy for different models.
 
 ## Conclusion
 In this project, I analyzed the Covid-19 dataset and built several machine learning models to predict whether a patient recovered or not. This project demonstrates the importance of feature engineering and model selection in machine learning, and it has potential applications in predicting Covid-19 recovery rates.
+
+## Author 
+[Zanifer Afsana Stephi](https://github.com/zanifer)
